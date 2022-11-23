@@ -251,6 +251,10 @@
 ======================================================================== */
 @media only screen and (min-width: 992px) {
   /* welcome section start */
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
   #firstS {
     background-image: url(../images/top-banner.png);
     background-repeat: no-repeat;
@@ -258,7 +262,7 @@
     margin-top: 0px;
   }
   .container {
-    max-width: 90%;
+    max-width: 1100px;
     margin: 0 auto;
   }
   .firstSWrap {
